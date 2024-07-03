@@ -1,2 +1,3 @@
-# bioinformatics_express
-Introducción express a la Bioinfomática
+# github.com/hachepunto/bioinformatics_express
+
+Introducción express a la Bioinformática
