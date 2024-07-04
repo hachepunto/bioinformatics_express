@@ -38,7 +38,7 @@ http://www.usadellab.org/cms/?page=trimmomatic
 https://pachterlab.github.io/kallisto/download.html
 
 2. Ubicar la opción de descarga que se muestra a continuación, descargar la opción correspondiente para **Windows**.
-<img src = ./Images/kallisto.png style = "display: block; margin: 0 auto;height: 450px; width:700px;"/>
+<img src = ./Images/Kallisto.png style = "display: block; margin: 0 auto;height: 450px; width:700px;"/>
 
 3. Una vez descargado el archivo **.zip** moverlo a la carpeta **tools**.
 4. Descomprimir el archivo dentro de esa misma carpeta.
