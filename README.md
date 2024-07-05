@@ -14,6 +14,7 @@ Revisar el apartado de instalación de la sección [Preprocesamiento](./PrepProc
 
 ### R y RStudio
 Revisa el apartado de instalación de la sección [R y RStudio](./RStudio.md), sigue las instrucciones de acuerdo a tu sistema operativo.
+
 ---
 **Instructores**
 - Dr. Hugo Antonio Tovar Romero 
