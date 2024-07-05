@@ -56,10 +56,10 @@ La instalación en el sistema operativo macOS es muy similar al de windows. La p
 1.	Acceder a la liga de descarga : https://www.oracle.com/java/technologies/downloads/#jdk22-mac
 
 2. Ubicar la opción de descarga que se muestra a continuación, descargar la opción que dice **AMD64 DMG Installer** si tienes una Mac con procesador ARM (M1 o M2) o bien el que dice **x64 DMG Installer** si tienes una Mac con procesador Intel.
-<img src = ./Images/jdk.png style = "display: block; margin: 0 auto;height: 200px; width:700px;"/>
+<img src = ./Images/jdk.png style = "display: block; margin: 0 auto;height: 400px; width:700px;"/>
 
 3. Una vez descargado el archivo **.dmg** darle doble click para montar el disco virtual. Una ventana emergerá en el Finder:
-<img src = ./Images/dmg_mounted.png style = "display: block; margin: 0 auto;height: 450px; width:700px;"/>
+<img src = ./Images/dmg_JDK.png style = "display: block; margin: 0 auto;height: 450px; width:700px;"/>
 
 4. Doble click al archivo **.pkg** que está adentro y sigue las instrucciones de instalación.
 5. Eliminar el archivo **.dmg**.
