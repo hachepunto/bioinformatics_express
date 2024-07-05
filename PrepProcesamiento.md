@@ -6,7 +6,9 @@ Por medio de esta unidad se aprenderá a utilizar las herramientas bioninformát
 - Trimmomatic
 - Kallisto
 
-Dentro de la carpeta de trabajo se van a crear una carpeta llammada **tools** en donde guarderemos todas las herramientas y así facilitar su localización y uso.
+Dentro de la carpeta de trabajo ```bioinformatics_express``` se van a crear una carpeta llammada ```tools`` en donde guarderemos todas las herramientas y así facilitar su localización y uso.
+
+
 
 ## Instalación **Windows**
 
@@ -83,11 +85,10 @@ https://www.bioinformatics.babraham.ac.uk/projects/download.html#fastqc
 6. En algún paso siguiente del curso tendrás que usar esta ruta en la terminal:
 
    ```
-   /ruta/a/tu/carpeta_de_trabajo/tools/FastQC.app/Contents/MacOS/fastqc
+   /ruta/a/bioinformatics_express/tools/FastQC.app/Contents/MacOS/fastqc
    ```
 
-
-No olvides sustituir donde dice “ruta a tu carpeta” por la ruta verdadera.
+No olvides sustituir donde dice “ruta a” por la ruta verdadera.
    
 **2. Trimmomatic**
 
