@@ -6,7 +6,7 @@ Por medio de esta unidad se aprenderá a utilizar las herramientas bioninformát
 - Trimmomatic
 - Kallisto
 
-Dentro de la carpeta de trabajo ```bioinformatics_express``` se van a crear una carpeta llammada ```tools`` en donde guarderemos todas las herramientas y así facilitar su localización y uso.
+Dentro de la carpeta de trabajo ```bioinformatics_express``` se van a crear una carpeta llammada ```tools``` en donde guarderemos todas las herramientas y así facilitar su localización y uso.
 
 
 
