@@ -25,7 +25,7 @@ Ubica el archivo terminación **.pkg** descargado, dale doble click y sigue las 
 ## Instalar RStudio
 
  -  Ve a la página de descarga de RStudio https://posit.co/download/rstudio-desktop/, ubicar dentro de la página la sección que muestra a continuación, descargar la opción que corresponde a tu sistema operativo.
-<img src = ./Images/RStudio.png style = "display: block; margin: 0 auto;height: 200px; width:700px;"/>
+<img src = ./Images/RStudio.png style = "display: block; margin: 0 auto;height: 400px; width:800px;"/>
 
 
 ### Windows
@@ -39,4 +39,3 @@ Ubica el archivo terminación **.pkg** descargado, dale doble click y sigue las 
 
  -  Arrastra el icono de **RStudio.spp** a la carpeta de _Applications_ como se muestra en la figura de arriba.
 
- 
