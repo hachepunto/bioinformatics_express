@@ -10,10 +10,10 @@ Este curso es parte de las materias impartidas dentro de los Posgrados de Alta E
 Para poder realizar la parte práctica del curso es necesario que los participantes tengan descargado las siguientes herramientas y compiladores.
 
 ### Herramientas Preprocesamiento
-Revisar el apartado de instalación de la sección [Preprocesamiento](./PrepProcesamiento.md), seguir las instrucciones de acuerdo a su sistema operativo.
+Revisar el apartado de instalación de la sección [Preprocesamiento](./PrepProcesamiento.md), sigue las instrucciones de acuerdo a tu sistema operativo.
 
 ### R y RStudio
-
+Revisa el apartado de instalación de la sección [R y RStudio](./RStudio.md), sigue las instrucciones de acuerdo a tu sistema operativo.
 ---
 **Instructores**
 - Dr. Hugo Antonio Tovar Romero 
