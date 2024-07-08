@@ -43,6 +43,6 @@ RStudio no es nada sin R. R es un lenguaje de programación y entorno de softwar
  -  Una vez descargado el archivo **.dmg** darle doble click para montar el disco virtual. Una ventana emergerá en el Finder:
 <img src = ./Images/dmg_RStudio.png style = "display: block; margin: 0 auto;height: 450px; width:700px;"/>
 
- -  Arrastra el icono de **RStudio.spp** a la carpeta de _Applications_ como se muestra en la figura de arriba.
+ -  Arrastra el icono de **RStudio.app** a la carpeta de _Applications_ como se muestra en la figura de arriba.
 
  -  Borra el archivo **.dmg** al final de la instalación.
