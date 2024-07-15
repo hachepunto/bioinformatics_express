@@ -17,7 +17,7 @@ Dentro de la carpeta de trabajo ```bioinformatics_express``` se van a crear una 
 1. Acceder a la liga de descarga :
 https://www.bioinformatics.babraham.ac.uk/projects/download.html#fastqc
 
-2. Ubicar dentro de la página la sección que muestra en a continuación, descargar la opción: **FastqQC (Win/Linux zip file)**.
+2. Ubicar dentro de la página la sección que muestra a continuación, descargar la opción: **FastqQC (Win/Linux zip file)**.
 <img src = ./Images/FastQC.png style = "display: block; margin: 0 auto;height: 200px; width:700px;"/>
 
 3. Una vez descargado el archivo **.zip** moverlo a la carpeta **tools**.
