@@ -56,6 +56,7 @@ $ cp file1.txt ./Branch1/Sub_Branch1/file3.txt
 ```
 
 Verificando la estructura de los archivos tendría que verse como a continuación:
+
 <img src = ./Images/tree2.png style = "display: block; margin: 0 auto;"/>
 
 # Llamado de Archivos
